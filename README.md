@@ -12,9 +12,11 @@ N/A
 
 To use this page, you can find navigation links at the top. Click on any of them to go directly to that page's content. You can also scroll up to see each content individually. On the right, you will find the benefits the marketing strategies can lead to.
 
-Use this link to access the live page: https://pierr05.github.io/module1-challenge/
+Horiseon:
 
 ![Screenshot of the Horiseon webpage.](.//assets/images/screenshot.png)
+
+Use this link to access the live page: https://pierr05.github.io/module1-challenge/
 
 ## Credits 
 
